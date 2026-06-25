@@ -1,0 +1,6 @@
+{
+  "name": "منصة التداول الذكي AI Trading",
+  "description": "منصة تحليل الأسواق المتقدمة وروبوت التداول اللحظي ذاتي التعلم بواجهة بلورية حديثة للعملات الرقمية والفوركس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
